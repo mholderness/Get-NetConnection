@@ -5,6 +5,7 @@
 .GUID b727a4e5-4484-444f-a6ba-ab0ba244d9ec
 .AUTHOR Mark Holderness
 .TAGS NetStat Get-NetTCPConnection Get-UDPEndPoint Get-FirewallLog
+.PROJECTURI https://github.com/mholderness/Get-NetConnection
 
 #> 
 
